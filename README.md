@@ -1,1 +1,1 @@
-# getply
+# GetPly Platform
