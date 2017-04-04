@@ -6,8 +6,7 @@ class Plugin extends PluginBase
 {
     public function registerComponents()
     {
-        return [
-        ];
+        return [];
     }
 
     public function registerSettings()
