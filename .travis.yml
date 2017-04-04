@@ -13,7 +13,7 @@ matrix:
 sudo: false
 
 before_script:
-  - git clone https://getply.com/octobercms/october.git
+  - git clone https://github.com/octobercms/october.git
   - mkdir -p ./october/plugins/relenta/ply
   - mv !(october) october/plugins/relenta/ply
   - cd october
